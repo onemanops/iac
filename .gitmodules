@@ -1,3 +1,4 @@
 [submodule "vanilla-k8s"]
 	path = vanilla-k8s
 	url = https://github.com/onemanops/vanilla-k8s.git
+	branch = stable
